@@ -1,6 +1,8 @@
 # Bechara Edits
 I did some tiny edits on the colors to make powerline work better with light colored background terminal themes.
 
+This website https://misc.flogisoft.com/bash/tip_colors_and_formatting has excellent tables that help when picking out terminal colors
+
 # Powerline Theme
 
 A colorful theme, where shows a lot information about your shell session.

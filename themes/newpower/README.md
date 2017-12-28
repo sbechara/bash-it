@@ -1,3 +1,6 @@
+# Bechara Edits
+I did some tiny edits on the colors to make powerline work better with light colored background terminal themes.
+
 # Powerline Theme
 
 A colorful theme, where shows a lot information about your shell session.
